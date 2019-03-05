@@ -5,4 +5,9 @@ public class Calculator{
 				System.out.println("Hello World");
 				System.out.println("Java Program");
 			}
+public static void addition(int number1, int number2)
+				{
+
+					System.out.println("Addition =" +(number1 + number2));
+				}
 			}
